@@ -1,0 +1,40 @@
+<div class="art">
+
+    <div>
+        <h2>the bearable lightness of being</h2>
+        <h4>berlin, video essay created with <%= link "bo bannink", to: "http://www.bobannink.nl/", target: "_blank" %>, for the open haus, residency at ZK/U Berlin</h4>
+        
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/475427035" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+        <p><a href="https://vimeo.com/475427035">The bearable lightness of being</a> from <a href="https://vimeo.com/user122734921">afopefoluwa ojo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+        <p class="work_des">this work is digital production of our experiences in Berlin so far, built up from an essay by me titled, &quot;the madness of good thoughts,&quot; this work seeks to engage the inherent goodness of man, drawing from the beauty of the mundane, and the people who we see around us every day, who just by virtue of being themselves, become something more, become unexpected performers, performing without performing, fitting into the every dayness of Berlin - and the world. we try to investigate &quot;goodness&quot; as a neccessity for survival in our currenrt world</p>
+    </div>
+
+    <div>
+        <h2>vertigo; in whom the goddess shines</h2>
+        <h4>maputo, mozambique #colabnownow, residency</h4>
+
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/455802221" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+        <p><a href="https://vimeo.com/455802221">vertigo: in whom the goddess shines</a> from <a href="https://vimeo.com/user122734921">afopefoluwa ojo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+        <p class="work_des">vertigo: in whom the goddess shines is a generative art piece which explores the relationship a woman has with her body, her reproduction, her fertility, her sex or the lack of it. It interrogates the dynamics a woman navigates to learn about herself. This art piece is also a double exposure as it is a personal investigation of my own highs and lows and how it can seem like I swing like an actual pendulum sometimes hence the randomness of the piece and the chosen medium:  generative art, which is often very beautiful in its imprecision.”</p>
+    </div>
+
+    <div>
+        <h2>mind at work: collaborative exhibition</h2>
+        <h4>african artists foundation, aaf, lagos</h4>
+
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/455314480" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+        <p><a href="https://vimeo.com/455314480">birdland</a> from <a href="https://vimeo.com/user122734921">afopefoluwa ojo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+        <p class="work_des">There are many ways through which poetry can be experienced. Through speech, through song, on paper, digitally etcetera. I am experimenting with these various mediums and the effects that such mediums would have on the poetry - if there are any at all. I am exploring with digital shapes, web objects and programming languages, design,  and combining these tools with poetry. I am exploring more traditional forms like paper, and ink, and then observing the ways in which the various forms affect the message or non-message. The process is to try to seek all the channels that reach for poetry and then deconstruct them through my own words and the way in which I see the world. </p>
+    </div>
+</div>
+
+<!--    <h2>shapes, lines, forms, 3D, play</h2>-->
+<!--    <h4>lagos, amsterdam, everywhere</h4>-->
+
+<!--    <h2>film, text on photos</h2>-->
+<!--    <h4>amsterdam</h4>-->
+
+<!--    <h2>onions r flowers</h2>-->
+<!--    <h4>amsterdam, instagram</h4>-->
+
+</div>

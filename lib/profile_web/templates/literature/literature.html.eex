@@ -1,0 +1,27 @@
+<div class="literature">
+    <h2>published</h2>
+    <ul>
+        <li><span><%= link "endsars opinion; sleek magazine, 2020", to: "https://www.sleek-mag.com/article/endsars/", target: "_blank" %></span></li>
+        <li><span><%= link "the future is fluid; ynaija, 2020", to: "https://ynaija.com/ynaijanonbinary-the-future-is-fluid/", target: "_blank" %></span></li>
+        <li><span><%= link "sonic acts and the eternal present; in conversation with Sitoi the doveheart; sonic acts, 2020", to: "https://sonicacts.com/critical/news/sonic-acts-and-the-eternal-present-in-conversation-with-sitoi-the-doveheart", target: "_blank" %></span></li>
+        <li><span><%= link "beijos + lifting Flinch's life up a trifle; cherry tree, 2020", to: "https://www.spdbooks.org/Products/23729796/cherry-tree-a-national-literary-journal--washington-college-issue-6.aspx", target: "_blank" %></span></li>
+        <li><span><%= link "Yadichinma & all her things; rele gallery, 2020", to: "https://www.instagram.com/p/B8iWQd7l9uw/?igshid=1v9q7jnxgrj2x", target: "_blank" %></span></li>
+        <li><span><%= link "homegoing; barelife review, 2020", to: "https://www.barelifereview.org/post/homegoing", target: "_blank" %></span></li>
+        <li><span><%= link "birds flying high, you know how i feel; irin journal, 2019", to: "https://www.irinjournal.com/shop/", target: "_blank" %></span></li>
+        <li><span><%= link "identities guide us, they do not define us and let this be known as a warning; overland, 2019", to: "https://overland.org.au/2019/05/identities-guide-us-they-do-not-define-us-and-let-this-be-known-as-a-warning/", target: "_blank" %></span></li>
+        <li><span><%= link "thinny Mister Howards; necessary fiction, 2019", to: "http://necessaryfiction.com/stories/afopefoluwaojoThinnyMisterHowards", target: "_blank" %></span></li>
+        <li><span><%= link "NATIVE 11: MAYORKUN; native mag, 2018", to: "https://thenativemag.com/featured/native-11-mayorkun/", target: "_blank" %></span></li>
+        <li><span><%= link "if we were made green; temz review, 2018", to: "https://www.thetemzreview.com/afopefoluwa-ojo.html", target: "_blank" %></span></li>
+        <li><span><%= link "this boy saw something in fire; barren magazine, 2018", to: "https://barrenmagazine.com/this-boy-saw-something-in-fire/", target: "_blank" %></span></li>
+        <li><span><%= link "a consequence of things; overland, 2018", to: "https://overland.org.au/previous-issues/issue-226/fiction-afopefoluwa-ojo/", target: "_blank" %></span></li>
+        <li><span><%= link "the truth is we were disruption; arts and africa, 2018", to: "https://artsandafrica.com/the-truth-is-we-were-disruption-508bf1cbcfe5", target: "_blank" %></span></li>
+    </ul>
+
+    <h2> editorial</h2>
+    <ul>
+        <li><span><%= link "numb tantrums; 2018", to: "https://aadesokan.com/numb-tantrums", target: "_blank" %></span></li>
+        <li><span><%= link "arts and africa; 2015-2020", to: "https://artsandafrica.com/", target: "_blank" %></span></li>
+        <li><span><%= link "monochrome lagos photobook; 2017-2018", to: "https://afope.github.io/photobooks/", target: "_blank" %></span></li>
+    </ul>
+
+</div>
