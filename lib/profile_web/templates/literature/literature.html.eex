@@ -1,11 +1,12 @@
 <div class="literature">
     <h2>published</h2>
     <ul>
+        <li><span><%= link "dreams of my father; spread mag, 2020", to: "https://www.spreadmag.nl/archive", target: "_blank" %></span></li>
         <li><span><%= link "endsars opinion; sleek magazine, 2020", to: "https://www.sleek-mag.com/article/endsars/", target: "_blank" %></span></li>
         <li><span><%= link "the future is fluid; ynaija, 2020", to: "https://ynaija.com/ynaijanonbinary-the-future-is-fluid/", target: "_blank" %></span></li>
         <li><span><%= link "sonic acts and the eternal present; in conversation with Sitoi the doveheart; sonic acts, 2020", to: "https://sonicacts.com/critical/news/sonic-acts-and-the-eternal-present-in-conversation-with-sitoi-the-doveheart", target: "_blank" %></span></li>
         <li><span><%= link "beijos + lifting Flinch's life up a trifle; cherry tree, 2020", to: "https://www.spdbooks.org/Products/23729796/cherry-tree-a-national-literary-journal--washington-college-issue-6.aspx", target: "_blank" %></span></li>
-        <li><span><%= link "Yadichinma & all her things; rele gallery, 2020", to: "https://www.instagram.com/p/B8iWQd7l9uw/?igshid=1v9q7jnxgrj2x", target: "_blank" %></span></li>
+        <li><span><%= link "Yadichinma & all her things; rele gallery, 2020", to: "https://www.irinjournal.com/", target: "_blank" %></span></li>
         <li><span><%= link "homegoing; barelife review, 2020", to: "https://www.barelifereview.org/post/homegoing", target: "_blank" %></span></li>
         <li><span><%= link "birds flying high, you know how i feel; irin journal, 2019", to: "https://www.irinjournal.com/shop/", target: "_blank" %></span></li>
         <li><span><%= link "identities guide us, they do not define us and let this be known as a warning; overland, 2019", to: "https://overland.org.au/2019/05/identities-guide-us-they-do-not-define-us-and-let-this-be-known-as-a-warning/", target: "_blank" %></span></li>
@@ -19,7 +20,6 @@
 
     <h2> editorial</h2>
     <ul>
-        <li><span><%= link "numb tantrums; 2018", to: "https://aadesokan.com/numb-tantrums", target: "_blank" %></span></li>
         <li><span><%= link "arts and africa; 2015-2020", to: "https://artsandafrica.com/", target: "_blank" %></span></li>
         <li><span><%= link "monochrome lagos photobook; 2017-2018", to: "https://afope.github.io/photobooks/", target: "_blank" %></span></li>
     </ul>

@@ -70,7 +70,7 @@
       sth abstract.
     </a>
     <img class="name-hover__one" src="<%= Routes.static_path(@conn, "/images/abstract_one.png") %>">
-  </strong>I spend my time <strong class="link-hover__container">
+  </strong> I spend my time <strong class="link-hover__container">
     <span class="hoverWrapper-one">c</span>
     <img class="name-hover__one" src="<%= Routes.static_path(@conn, "/images/creating_one.png") %>">
     <span href="" class="hoverWrapper-two">r</span>
